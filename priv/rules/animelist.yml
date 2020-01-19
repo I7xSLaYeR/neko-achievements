@@ -41,9 +41,9 @@
   level: 5
   threshold: 200
   metadata:
-     title_ru: Легкая прогулка
-     text_ru: В дорогу дальнюю идем по неизведанным тропинкам. Сколько впереди ещё интересного!
-     image: /assets/achievements/anime/animelist_5.jpg
+     title_ru: Прыжок в аниме-мир
+     text_ru: С этой дороги не свернуть. Полный вперед! Интересное ещё дальше!
+     image: https://ostani.me/wp-content/uploads/2019/09/Kono-Oto-Tomare-1024x576.jpg
      border_color: "#FFDC33"
 
 - <<: *defaults
